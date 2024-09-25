@@ -14,3 +14,6 @@
 
 > [!CAUTION]
 > Caution text
+
+> [!QUOTE]
+> Quote text
